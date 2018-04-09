@@ -1,0 +1,55 @@
+E-Commerce
+
+Website : https://manishkarnatak.github.io/E-commerce/
+
+Code : https://github.com/manishkarnatak/E-commerce
+
+This is E-Commerce Website of IT Products.
+
+Main Page : Login and Registration
+
+After Login 
+Home Page :  In this, I created 4 sections
+ 
+
+1.) Menu Section (Header)
+2.) SideBar Section
+3.) Content Section
+4.) Copyright Section (Footer)
+
+Menu Section : Logo  and 4 menus as Home , About , Contact , Feedback
+Sidebar Section : Mobiles, Mobile Accessories, Laptops , Pen Drives and Storages Computer and Accessories, Cart
+Content Section : In this The Corresponding Menu or Sidebar menu have Contents 
+Coyright Section : Copyright © 2018 Mansih Karnatak
+
+The Menu Section are in <headed></header>
+Sidebar Section are in <div class="sidebar"></div>
+Content Section are in <div class="content"></div>
+Footer Section are in <footer></footer>
+
+Structure of Folders : 
+
+> assests 
+  > css
+    > main.css
+    > navbar.css
+    > sidebar.css
+  > images
+  > logo
+> index.html
+> about.html
+> cart.html
+> computersandaccessories.html
+> contact.html
+> feedback.html
+> home.html
+> laptops.html
+> mobileaccessories.html
+> mobiles.html
+> pendrivesandstorages.html
+> regis.html
+
+main.css : Changes the Font Style of Page , having some extra classes for Buttons , forms etc .
+
+All Contents Taken From Amazon.in
+All Pictures Taken From Amazon.in
