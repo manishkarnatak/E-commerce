@@ -22,7 +22,7 @@ Sidebar Section : Mobiles, Mobile Accessories, Laptops , Pen Drives and Storages
 Content Section : In this The Corresponding Menu or Sidebar menu have Contents 
 Coyright Section : Copyright © 2018 Mansih Karnatak
 
-The Menu Section are in <headed></header>
+The Menu Section are in <header></header>
 Sidebar Section are in <div class="sidebar"></div>
 Content Section are in <div class="content"></div>
 Footer Section are in <footer></footer>
